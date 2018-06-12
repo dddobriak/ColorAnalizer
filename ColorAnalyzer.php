@@ -137,7 +137,7 @@ class ColorAnaliser
 
 	/*
 	* getResult
-	* @return array
+	* @return void
 	*/
 	static function getResult()
 	{
