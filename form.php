@@ -24,7 +24,7 @@
 			</div>
 			<button type="submit" class="btn btn-primary mb-2">Отправить</button>
 		</form>
-		 <?php echo ColorAnaliser::getResult(); ?>
+		 <?php echo ColorAnalyser::getResult(); ?>
 	</div>
 	<!-- Optional JavaScript -->
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->

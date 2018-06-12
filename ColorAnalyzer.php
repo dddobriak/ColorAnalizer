@@ -1,6 +1,6 @@
 <?php
 
-class ColorAnaliser
+class ColorAnalyser
 {
 
 	const UPLOAD_DIR = __DIR__ . '/images/';
